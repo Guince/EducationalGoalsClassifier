@@ -1,0 +1,10 @@
+\begin{tabular}{lr}
+\toprule
+{} &  до регуляризации \\
+\midrule
+roc\_auc   &          0.851418 \\
+precision &          0.721925 \\
+recall    &          0.812030 \\
+accuracy  &          0.776059 \\
+\bottomrule
+\end{tabular}

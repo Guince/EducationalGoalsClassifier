@@ -1,0 +1,10 @@
+\begin{tabular}{lrrr}
+\toprule
+{} &  MultinomialNB &  LogRegression\_CV &  ARTM\_classification \\
+\midrule
+roc\_auc   &       0.853594 &          0.853779 &             0.787452 \\
+precision &       0.788851 &          0.792321 &             0.705634 \\
+recall    &       0.702256 &          0.682707 &             0.753383 \\
+accuracy  &       0.782784 &          0.778077 &             0.749159 \\
+\bottomrule
+\end{tabular}

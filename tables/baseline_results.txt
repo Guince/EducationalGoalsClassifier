@@ -1,0 +1,10 @@
+\begin{tabular}{lrrr}
+\toprule
+{} &  MultinomialNB &  LogRegression\_CV &  LogRegression\_Tfidf \\
+\midrule
+roc\_auc   &       0.870377 &          0.863713 &             0.857820 \\
+precision &       0.814503 &          0.813433 &             0.798131 \\
+recall    &       0.726316 &          0.655639 &             0.642105 \\
+accuracy  &       0.803631 &          0.778749 &             0.767317 \\
+\bottomrule
+\end{tabular}

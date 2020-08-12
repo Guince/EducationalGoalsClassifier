@@ -1,0 +1,7 @@
+\begin{tabular}{lrrrrr}
+\toprule
+{} &  tau\_Smooth\_Phi00\_info &   roc\_auc &  precision &   recall &  accuracy \\
+\midrule
+0 &                  350.0 &  0.851418 &   0.721925 &  0.81203 &  0.776059 \\
+\bottomrule
+\end{tabular}
