@@ -11,4 +11,4 @@ It also can provide interesting diagrams "topics - specificity" and "tokens - sp
 
 The degree of specificity was calculated for all documents (educational goals). The degree of specificity for a document is defined as the likelihood that it relates to any of the specific topics. The figure shows the specificity of all documents. It can be seen that documents related to specific topics really have high specificity, and low specificity to non-specific ones.
 
-!["topics - specificity" diagram](https://github.com/Guince/EducationalGoalsClassifier/raw/master/images/specifisity_documents_all.png)
+!["topics - specificity" diagram](https://github.com/Guince/EducationalGoalsClassifier/blob/master/images/specifisity_all_documents.png)
